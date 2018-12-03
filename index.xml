@@ -21,30 +21,23 @@
     </item>
     
     <item>
-      <title>Tempus</title>
+      <title>Apply (Call for students)</title>
       <link>/blogs/tempus/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
       <guid>/blogs/tempus/</guid>
-      <description></description>
+      <description>Program Overview: Why Apply to DSPG? Delivered by the Biocomplexity Institute and Initiative at the University of Virginia, SDAD&amp;rsquo;s Data Science for the Public Good program (DSPG) offers a range of unique opportunities to aspiring scholars and future data science practitioners.
+Make a real impact. Our student fellows participate in all the laboratory’s project activities &amp;ndash;— research that’s fundamentally transforming the way we understand the world. As part of the Biocomplexity Institute of Virginia Tech, our projects help guide the creation of resilient cities, inform effective policy responses to public health crises, and uncover key factors that drive industrial innovation.</description>
     </item>
     
     <item>
-      <title>Magna</title>
+      <title>DSPG Presentations</title>
       <link>/blogs/magna/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>/blogs/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>/blogs/ipsum/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>/blogs/ipsum/</guid>
-      <description>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <description>Research from the Data Science for the Public Good (DSPG) program addresses fundamental problems faced by governmental agencies tasked with serving the public good, institutions ranging from the Department of Defense to emergency response services in our local county. The poster presentations below represent the range of research we&amp;rsquo;ve performed on behalf of each of our sponsors.
+DSPG 2017 Arlington County  Characterizing Communities for Crime Rate Inference How Do Events Affect Crime?</description>
     </item>
     
     <item>
@@ -56,6 +49,16 @@
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Data Science for the Public Good Program</title>
+      <link>/blogs/ipsum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blogs/ipsum/</guid>
+      <description>The Data Science for the Public Good program (DSPG) engages young scholars in finding solutions to some of the most pressing social issues of our time. DSPG fellows conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life.
+Problem Our communities are engaged in a tremendous struggle to manage conflicting forces that threaten their ability to evolve and thrive.</description>
     </item>
     
   </channel>
