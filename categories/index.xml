@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science for the Public Good</title>
+    <title>Categories on Data Science for the Public Good</title>
     <link>https://dspg2019.github.io/categories/</link>
-    <description>Recent content on Data Science for the Public Good</description>
+    <description>Recent content in Categories on Data Science for the Public Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 1970 00:00:40 +0000</lastBuildDate>
@@ -12,61 +12,12 @@
     
     
     <item>
-      <title>Data Science for the Public Good Program</title>
-      <link>https://dspg2019.github.io/about/dspg/</link>
+      <title></title>
+      <link>https://dspg2019.github.io/categories/</link>
       <pubDate>Thu, 01 Jan 1970 00:00:40 +0000</pubDate>
       
-      <guid>https://dspg2019.github.io/about/dspg/</guid>
-      <description>The Data Science for the Public Good program (DSPG) engages young scholars in finding solutions to some of the most pressing social issues of our time. DSPG fellows conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life.
-Problem Our communities are engaged in a tremendous struggle to manage conflicting forces that threaten their ability to evolve and thrive.</description>
-    </item>
-    
-    <item>
-      <title>Data Science for the Public Good Program</title>
-      <link>https://dspg2019.github.io/about/dspg/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:40 +0000</pubDate>
-      
-      <guid>https://dspg2019.github.io/about/dspg/</guid>
-      <description>The Data Science for the Public Good program (DSPG) engages young scholars in finding solutions to some of the most pressing social issues of our time. DSPG fellows conduct research at the intersection of statistics, computation, and the social sciences to determine how information generated within every community can be leveraged to improve quality of life.
-Problem Our communities are engaged in a tremendous struggle to manage conflicting forces that threaten their ability to evolve and thrive.</description>
-    </item>
-    
-    <item>
-      <title>DSPG Projects</title>
-      <link>https://dspg2019.github.io/about/projects/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:30 +0000</pubDate>
-      
-      <guid>https://dspg2019.github.io/about/projects/</guid>
-      <description>Research from the Data Science for the Public Good (DSPG) program addresses fundamental problems faced by governmental agencies tasked with serving the public good, institutions ranging from the Department of Defense to emergency response services in our local county. The poster presentations below represent the range of research we&amp;rsquo;ve performed on behalf of each of our sponsors.
-DSPG 2017 Arlington County  Characterizing Communities for Crime Rate Inference How Do Events Affect Crime?</description>
-    </item>
-    
-    <item>
-      <title>DSPG Projects</title>
-      <link>https://dspg2019.github.io/about/projects/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:30 +0000</pubDate>
-      
-      <guid>https://dspg2019.github.io/about/projects/</guid>
-      <description>Research from the Data Science for the Public Good (DSPG) program addresses fundamental problems faced by governmental agencies tasked with serving the public good, institutions ranging from the Department of Defense to emergency response services in our local county. The poster presentations below represent the range of research we&amp;rsquo;ve performed on behalf of each of our sponsors.
-DSPG 2017 Arlington County  Characterizing Communities for Crime Rate Inference How Do Events Affect Crime?</description>
-    </item>
-    
-    <item>
-      <title>Apply (Call for students)</title>
-      <link>https://dspg2019.github.io/about/apply/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:20 +0000</pubDate>
-      
-      <guid>https://dspg2019.github.io/about/apply/</guid>
-      <description>The Social &amp;amp; Decision Analytics Division (SDAD) is seeking applications for graduate fellows and undergraduate interns for its Data Science for Public Good (DSPG) program. SDAD is a leading research group in the Biocomplexity Institute &amp;amp; Initiative at the University of Virginia. BII performs world-class informatics research in life sciences, social sciences, and human health by integrating theory, modeling and simulation with computational and experimental science in a transdisciplinary, team science research environment.</description>
-    </item>
-    
-    <item>
-      <title>Apply (Call for students)</title>
-      <link>https://dspg2019.github.io/about/apply/</link>
-      <pubDate>Thu, 01 Jan 1970 00:00:20 +0000</pubDate>
-      
-      <guid>https://dspg2019.github.io/about/apply/</guid>
-      <description>The Social &amp;amp; Decision Analytics Division (SDAD) is seeking applications for graduate fellows and undergraduate interns for its Data Science for Public Good (DSPG) program. SDAD is a leading research group in the Biocomplexity Institute &amp;amp; Initiative at the University of Virginia. BII performs world-class informatics research in life sciences, social sciences, and human health by integrating theory, modeling and simulation with computational and experimental science in a transdisciplinary, team science research environment.</description>
+      <guid>https://dspg2019.github.io/categories/</guid>
+      <description></description>
     </item>
     
   </channel>
